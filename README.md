@@ -1,6 +1,6 @@
 # Bit BlazorUI Playground
 
-With [GitHub Codespaces](https://github.com/features/codespaces), you can access the ultimate online development platform, right in your browser - no downloads or installations required!
+With [GitHub Codespaces](https://github.com/features/codespaces), you can access the ultimate online development experience of [BitPlatform](https://github.com/bitfoundation/bitplatform), right in your browser - no downloads or installations required!
 
 Experience lightning-fast speeds and seamless integration as you dive into the world of Bit BlazorUI, and elevate your web development game to new heights.
 
